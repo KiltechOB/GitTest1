@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            // Code was edid in GitHub
+            // Code was edidet in GitHub
         }
     }
 }
